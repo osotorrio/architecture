@@ -19,6 +19,7 @@
 
 
 - Reliability Patterns
+
   -Circuit Breaker Pattern
   
 - Service Discovery Patterns
