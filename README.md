@@ -1,19 +1,21 @@
 # Architecture
 
-From developer to architect (short videos): [https://www.developertoarchitect.com/lessons/](https://www.developertoarchitect.com/lessons/)
+- From developer to architect (short videos): [https://www.developertoarchitect.com/lessons/](https://www.developertoarchitect.com/lessons/)
 
-Software Architecture Patterns (free PDF): [http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf](http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
+- Software Architecture Patterns (free PDF): [http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf](http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
 
-More books: [https://www.developertoarchitect.com/books.html](https://www.developertoarchitect.com/books.html)
+- Microservices Patterns (online book): [https://www.manning.com/books/microservices-patterns?a_aid=microservices-patterns-chris](https://www.manning.com/books/microservices-patterns?a_aid=microservices-patterns-chris)
+
+- Microservices AntiPatterns and Pitfalls (free PDF): [https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf](https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf)
+
+- Microservices vs. Service-Oriented Architecture (free PDF): [https://www.oreilly.com/programming/free/files/microservices-vs-service-oriented-architecture.pdf](https://www.oreilly.com/programming/free/files/microservices-vs-service-oriented-architecture.pdf)
+
+- More books: [https://www.developertoarchitect.com/books.html](https://www.developertoarchitect.com/books.html)
 
 
 ## [Microservices Patterns](https://microservices.io/patterns/microservices.html)
 
-Microservices Patterns (online book): [https://www.manning.com/books/microservices-patterns?a_aid=microservices-patterns-chris](https://www.manning.com/books/microservices-patterns?a_aid=microservices-patterns-chris)
 
-Microservices AntiPatterns and Pitfalls (free PDF): [https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf](https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf)
-
-Microservices vs. Service-Oriented Architecture (free PDF): [https://www.oreilly.com/programming/free/files/microservices-vs-service-oriented-architecture.pdf](https://www.oreilly.com/programming/free/files/microservices-vs-service-oriented-architecture.pdf)
 
 - Reliability Patterns
   -Circuit Breaker Pattern
