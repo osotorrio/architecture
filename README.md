@@ -18,10 +18,15 @@ Microservices Patterns (online book): [https://www.manning.com/books/microservic
   - External Configuration
   - Microservice Chassis
 - Observability Patterns
-  - Health Check
+  - Health Check API
   - Distributed Tracing
   - Performance Metrics
   - Log Aggregation
+  - Audit logging
+  - Distributed tracing
+  - Exception tracking
+  - Log deployments and changes
+  
 - Data Management Patterns
   - Saga Patterns
   - Event Sourcing
