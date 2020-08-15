@@ -12,6 +12,7 @@
 
 - More books: [https://www.developertoarchitect.com/books.html](https://www.developertoarchitect.com/books.html)
 
+- The System Design Primer: [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 
 ## [Microservices Patterns](https://microservices.io/patterns/microservices.html)
 
