@@ -2,7 +2,7 @@
 
 From developer to architect (short videos): [https://www.developertoarchitect.com/lessons/](https://www.developertoarchitect.com/lessons/)
 
-Software Architecture Patters (free PDF): [http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf](http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
+Software Architecture Patterns (free PDF): [http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf](http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
 
 More books: [https://www.developertoarchitect.com/books.html](https://www.developertoarchitect.com/books.html)
 
@@ -81,7 +81,7 @@ Microservices vs. Service-Oriented Architecture (free PDF): [https://www.oreilly
   - Transaction log tailing
   - Polling publisher
 
-- Deployment patterns
+- Deployment Patterns
   - Multiple service instances per host
   - Service instance per host
   - Service instance per VM
@@ -97,7 +97,7 @@ Microservices vs. Service-Oriented Architecture (free PDF): [https://www.oreilly
 - Security Patterns
   - Access Token
 
-- Testing
+- Testing Patterns
   - Consumer-driven contract test
   - Consumer-side contract test
   - Service component sest 
