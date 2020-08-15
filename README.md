@@ -4,19 +4,16 @@ From developer to architect (short videos): [https://www.developertoarchitect.co
 
 Software Architecture Patters (free PDF): [http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf](http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
 
+More books: [https://www.developertoarchitect.com/books.html](https://www.developertoarchitect.com/books.html)
+
+
+## [Microservices Patterns](https://microservices.io/patterns/microservices.html)
+
 Microservices Patterns (online book): [https://www.manning.com/books/microservices-patterns?a_aid=microservices-patterns-chris](https://www.manning.com/books/microservices-patterns?a_aid=microservices-patterns-chris)
 
 Microservices AntiPatterns and Pitfalls (free PDF): [https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf](https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf)
 
 Microservices vs. Service-Oriented Architecture (free PDF): [https://www.oreilly.com/programming/free/files/microservices-vs-service-oriented-architecture.pdf](https://www.oreilly.com/programming/free/files/microservices-vs-service-oriented-architecture.pdf)
-
-Object-Oriented vs Functional Programming: [https://www.oreilly.com/programming/free/files/object-oriented-vs-functional-programming.pdf](https://www.oreilly.com/programming/free/files/object-oriented-vs-functional-programming.pdf)
-
-More books: [https://www.developertoarchitect.com/books.html](https://www.developertoarchitect.com/books.html)
-
-[https://gist.github.com/augbog/d65f6600188fece854cb341734c5fd12](https://gist.github.com/augbog/d65f6600188fece854cb341734c5fd12)
-
-## [Microservices Patterns](https://microservices.io/patterns/microservices.html)
 
 - Reliability Patterns
   -Circuit Breaker Pattern
