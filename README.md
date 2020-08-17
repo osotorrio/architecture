@@ -14,7 +14,6 @@
 
 - The System Design Primer: [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 
-https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a
 
 ## [Microservices Patterns](https://microservices.io/patterns/microservices.html)
 
