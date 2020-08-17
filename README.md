@@ -14,13 +14,13 @@
 
 - The System Design Primer: [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 
+https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a
+
 ## [Microservices Patterns](https://microservices.io/patterns/microservices.html)
 
-https://livebook.manning.com/book/microservices-in-action/chapter-6/
 
 - Reliability Patterns
-
-  -Circuit Breaker Pattern
+  - Circuit Breaker Pattern
   
 - Service Discovery Patterns
   - Client-side discovery
