@@ -53,7 +53,7 @@ https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns
   - Domain-Driven Design (DDD)
 
 - Integration Patterns
-  - Aggregator Pattern
+  - Aggregator Pattern: [Orchestration Pattern Video](https://www.developertoarchitect.com/lessons/lesson43.html), [Aggregation Pattern](https://www.developertoarchitect.com/lessons/lesson44.html), [Microservices Integration Aggregators](https://dzone.com/articles/microservices-integration-aggregators), [Aggregator Pattern](https://akfpartners.com/growth-blog/microservice-aggregator-pattern)
   - Chained Microservice Design Pattern
   - Branch Pattern
   - Gateway Routing Pattern
