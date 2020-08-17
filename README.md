@@ -16,7 +16,7 @@
 
 ## [Microservices Patterns](https://microservices.io/patterns/microservices.html)
 
-
+https://livebook.manning.com/book/microservices-in-action/chapter-6/
 
 - Reliability Patterns
 
