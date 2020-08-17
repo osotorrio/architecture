@@ -18,21 +18,21 @@
 ## [Microservices Patterns](https://microservices.io/patterns/microservices.html)
 
 
-- Reliability Patterns
+- **Reliability Patterns**
   - Circuit Breaker Pattern
   
-- Service Discovery Patterns
+- **Service Discovery Patterns**
   - Client-side discovery
   - Server-side discovery
   - Service registry
   - Self registration
   - 3rd party registration
 
-- Cross-Cutting Concern Patterns
+- **Cross-Cutting Concern Patterns**
   - External Configuration
   - Microservice Chassis
 
-- Observability Patterns
+- **Observability Patterns**
   - Health Check API
   - Distributed Tracing
   - Performance Metrics
@@ -42,7 +42,7 @@
   - Exception tracking
   - Log deployments and changes
   
-- Data Management Patterns
+- **Data Management Patterns**
   - Saga Patterns
   - Event Sourcing
   - Database per Service
@@ -51,7 +51,7 @@
   - API Composition
   - Domain-Driven Design (DDD)
 
-- Integration Patterns
+- **Integration Patterns**
   - Aggregator Pattern: [Orchestration Pattern (video)](https://www.developertoarchitect.com/lessons/lesson43.html), [Aggregation Pattern (video)](https://www.developertoarchitect.com/lessons/lesson44.html), [Microservices Integration Aggregators](https://dzone.com/articles/microservices-integration-aggregators), [Aggregator Pattern](https://akfpartners.com/growth-blog/microservice-aggregator-pattern)
   - Chained Microservice Design Pattern
   - Branch Pattern
@@ -60,13 +60,13 @@
   - API Gateway Pattern
   - Backend For Front-End Pattern
 
-- Communication Style Patterns
+- **Communication Style Patterns**
   - Remote Procedure Invocation
   - Messaging
   - Domain-specific protocol
   - Idempotent Consumer
 
-- Decomposition Patterns
+- **Decomposition Patterns**
   - Sidecar Pattern
   - Bulkhead Pattern
   - Two-Phase Commit Protocol (2PC)
@@ -75,16 +75,16 @@
   - Self-contained Service
   - Service per team
 
-- Refactoring To Microservices
+- **Refactoring To Microservices**
   - Strangler Pattern
   - Anti-Corruption Layer
 
-- Transactional Messaging
+- **Transactional Messaging**
   - Transactional outbox
   - Transaction log tailing
   - Polling publisher
 
-- Deployment Patterns
+- **Deployment Patterns**
   - Multiple service instances per host
   - Service instance per host
   - Service instance per VM
@@ -93,14 +93,14 @@
   - Service deployment platform
   - Blue-Green Deployment Pattern
 
-- UI Patterns
+- **UI Patterns**
   - Client-Side UI Composition Pattern
   - Server-side page fragment composition
 
-- Security Patterns
+- **Security Patterns**
   - Access Token
 
-- Testing Patterns
+- **Testing Patterns**
   - Consumer-driven contract test
   - Consumer-side contract test
   - Service component sest 
