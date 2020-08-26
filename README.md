@@ -38,7 +38,8 @@
   - Health Check API
   - Distributed Tracing
   - Performance Metrics
-  - Log Aggregation
+  - Log Aggregation: [Log consolidation vs log streaming (video)](https://www.developertoarchitect.com/lessons/lesson4.html), [Distributed Logging Architecture for Microservices
+](https://dzone.com/articles/distributed-logging-architecture-for-microservices), [Distributed Logging Architecture in the Container Era](https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/)
   - Audit logging
   - Distributed tracing
   - Exception tracking
